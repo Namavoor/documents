@@ -1,5 +1,7 @@
 ## Documentation Guideline 
 
+Note: This guideline only applies to this repository "documents" 
+
 ### 1. Overview
    
 Welcome to the "documents" repository! This is where you can find all the documentation for our project. To ensure consistency and ease of collaboration, all documentation is maintained in markdown.
@@ -35,3 +37,8 @@ By adopting this branching strategy, the project team can effectively manage the
 <img src="https://github.com/Namavoor/documents/blob/draft/akilan/doc_images/documents_branching-strategy.png"/>
 </p>
 
+#### 3.1. Branch naming
+
+When you do pull request, you create a new branch on draft branch by naming the branch starting with "draft/[your Name]
+
+For example, "draft/akilan"
