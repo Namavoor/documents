@@ -39,6 +39,16 @@ By adopting this branching strategy, the project team can effectively manage the
 
 #### 3.1. Branch naming
 
-When you do pull request, you create a new branch on draft branch by naming the branch starting with "draft/[your Name]
+When you do pull request, you create a new branch on draft branch by naming the branch starting with "draft/[the document name you are working on]
 
-For example, "draft/akilan"
+For example, "draft/system_development_plan"
+
+#### 3.2. Pull Request description
+
+When submitting a pull request, it is essential to provide clear and concise information for ease of collaboration with others. To do so, it is recommended to include the issue link and issue number in the description. Additionally, a brief explanation of the changes made, updates, fixes, or additions added should be provided, along with the reason behind the changes. This will help the reviewers understand the purpose of the pull request easily and quickly, improving the efficiency of collaboration.
+
+
+### 4. Adding images 
+
+For adding images to any documents, firstly, it is essential to add the image in "doc_images" folder in the "documents" repository. Then use the link to embed the image in the document. 
+
