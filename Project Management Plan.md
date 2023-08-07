@@ -22,11 +22,14 @@ This document defines goals, scope, resources, and the planning of the activitie
 <img src="https://github.com/Namavoor/documents/blob/draft/akilan/doc_images/OGESS%20Block%20diagram_.drawio.png" width="550" height="300"/>
 </p>
 
+
+### 4. Project Structure 
+
 <p align="center">
 <img src="https://github.com/Namavoor/documents/blob/draft/akilan/doc_images/OGESS%20breakdown.drawio.png" width="550" height="300"/>
 </p>
 
- For more details, refer the development plan document and functional requirement in stakeholder 
+ For more details, refer to the development plan documents and functional requirements in the stakeholder. 
 
 
 ### 4. Project goal 
