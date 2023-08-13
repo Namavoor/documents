@@ -50,5 +50,10 @@ When submitting a pull request, it is essential to provide clear and concise inf
 
 ### 4. Adding images 
 
-For adding images to any documents, firstly, it is essential to add the image in "doc_images" folder in the "documents" repository. Then use the link to embed the image in the document. 
+For adding images to any documents, 
 
+#### Step 1: 
+Add the image in "doc_images" folder in the "documents" repository in your corresponding branch. 
+
+#### Step 2: 
+Copy the link and paste where needs to be embedded and change your branch name in the link to "main". So that when it is merged to "main" branch, the content always embeds the image from the "main" branch as a sourch of truth.  
