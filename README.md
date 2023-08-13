@@ -34,7 +34,7 @@ On the other hand, the draft branch is used for ongoing document development, in
 By adopting this branching strategy, the project team can effectively manage the document development process, avoid versioning conflicts, and ensure that stakeholders have access to the most up-to-date and reliable documentation.
 
 <p align="center">
-<img src="https://github.com/Namavoor/documents/blob/draft/akilan/doc_images/documents_branching-strategy.drawio.png"/>
+<img src="https://github.com/Namavoor/documents/blob/main/doc_images/documents_branching-strategy.drawio.png"/>
 </p>
 
 #### 3.1. Branch naming
