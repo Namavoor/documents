@@ -56,4 +56,4 @@ For adding images to any documents,
 Add the image in "doc_images" folder in the "documents" repository in your corresponding branch. 
 
 #### Step 2: 
-Copy the link and paste where needs to be embedded and change your branch name in the link to "main". So that when it is merged to "main" branch, the content always embeds the image from the "main" branch as a sourch of truth.  
+Copy the link and paste where needs to be embedded and change your branch name in the link to "main". So that when it is merged to "main" branch, the content always embeds the image from the "main" branch as a sourch of truth.  .

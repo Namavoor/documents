@@ -26,7 +26,7 @@ This document defines goals, scope, resources, and the planning of the activitie
 ### 4. Project Structure 
 
 <p align="center">
-<img src="https://github.com/Namavoor/documents/blob/main/doc_images/Project%20Sturcture-Level-1.drawio.png"/>
+<img src="https://github.com/Namavoor/documents/blob/main/doc_images/OGESS%20breakdown.drawio.png"/>
 </p>
 
  For more details, refer to the development plan documents and functional requirements in the stakeholder. 
@@ -74,7 +74,7 @@ By combining these different tools and platforms, teams can work together more e
 
 We welcome anyone who is interested in working on the project, whether it be contributing to feature development, addressing issues, improving documentation, or suggesting ways to enhance the project. This directly contributes to the project goal and the philosophy behind it. 
 
-To begin working on a project, follow these simple steps:
+To begin working on this project, follow these simple steps:
 
 1. Browse through the listed issues and choose one that interests you. If you don't find something you like, create a new issue and give it a descriptive title and a clear explanation of the problem.
 2. Assign yourself to the issue you wish to work on. This informs other team members that you are actively working on that task.
