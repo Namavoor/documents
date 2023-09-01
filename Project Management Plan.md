@@ -26,7 +26,7 @@ This document defines goals, scope, resources, and the planning of the activitie
 ### 4. Project Structure 
 
 <p align="center">
-<img src="https://github.com/Namavoor/documents/blob/main/doc_images/Project%20Sturcture-Level-1.drawio.png"/>
+<img src="https://github.com/Namavoor/documents/blob/main/doc_images/OGESS%20breakdown.drawio.png"/>
 </p>
 
  For more details, refer to the development plan documents and functional requirements in the stakeholder. 
